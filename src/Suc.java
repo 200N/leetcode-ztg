@@ -68,7 +68,6 @@ public class Suc {
         1.使用逗号分隔拼接。
         2.以及直接将List中的元素拼接。——此种方式经常使用。*/
 
-
 //        StringUtils.join(res,"分隔符") 经常使用
         System.out.println(StringUtils.join(res, ""));
 
